@@ -51,4 +51,6 @@ All data is transmitted over USART1 at 115200 baud and visualised live in PuTTY 
 ## System Architecture
  
 ### Firmware Execution Flowchart
+<img width="1024" height="1536" alt="ChatGPT Image Mar 13, 2026, 08_58_53 AM" src="https://github.com/user-attachments/assets/8ee90133-5ed2-473b-a975-475fca12aeaa" />
+
 
