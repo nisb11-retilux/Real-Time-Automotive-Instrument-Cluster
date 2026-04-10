@@ -1,2 +1,2 @@
-# Real-Time-Automotive-Instrument-Cluster-STM32L475 + FreeRTOS
-
+# Real-Time-Automotive-Instrument-Cluster using STM32L475 + FreeRTOS
+A multi-tasked real-time automotive instrument cluster running on the ST B-L475E-IOT01A Discovery Kit using FreeRTOS (via CMSIS-RTOS v2). The system concurrently monitors engine temperature, fuel level, vehicle speed, and engine RPM with deterministic scheduling, thread-safe inter-task communication, LED status indicators, and live UART output to PuTTY.
